@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 5,
-  "latestVersionName": "1.3.5.b",
-  "apkUrl": "https://github.com/ymusicsuppor-hub/YMusic-Releases/releases/download/1.3.5.b/YMusic_v1.3.5.b.apk",
-  "releaseNotes": "¡Nueva Interfaz Royal YMusic! \n\n- Rediseño premium basado en la identidad visual de la marca.\n- Barra de navegación inferior optimizada con efecto de profundidad.\n- Mini reproductor con soporte para gestos de deslizamiento (Swipe).\n- Sistema inteligente de doble toque para salir de la aplicación.\n- Corrección en la lectura de portadas individuales para archivos MP3.\n- Optimizacion masiva del peso del APK y modo de repetición continua.\n- Estabilización del Mix Diario por 24 horas y buscador movido a Biblioteca."
+  "latestVersionCode": 6,
+  "latestVersionName": "1.3.6.b",
+  "apkUrl": "https://github.com/ymusicsuppor-hub/YMusic-Releases/releases/download/v1.3.6.b/YMusic_v1.3.6.b.apk",
+  "releaseNotes": "¡Arranque rápido y actualizaciones inteligentes! \n\n- Logotipo oficial de YMusic integrado en la barra principal.\n- Carga instantánea de tu biblioteca de música sin importar cuántas canciones tengas.\n- Las nuevas actualizaciones ahora saltan para instalarse automáticamente al terminar de descargar.\n- Nuevo sistema de limpieza profunda: la app ahora borra sus propios instaladores antiguos automáticamente para no llenar la memoria de tu teléfono."
 }
