@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 7,
-  "latestVersionName": "1.3.7.b",
-  "apkUrl": "https://github.com/ymusicsuppor-hub/YMusic-Releases/releases/download/v1.3.7.b/YMusic_v1.3.7.b.apk",
-  "releaseNotes": "- Nueva sección de 'Apoyo al Proyecto' en el menú principal.\n- Ahora puedes apoyar el desarrollo de YMusic con donaciones voluntarias en Bitcoin mediante un botón de copiado rápido y seguro."
+  "latestVersionCode": 8,
+  "latestVersionName": "1.3.8.b",
+  "apkUrl": "https://github.com/ymusicsuppor-hub/YMusic-Releases/releases/download/v1.3.8.b/YMusic_v1.3.8.b.apk",
+  "releaseNotes": "- 🎛️ Nueva pantalla de Configuración.\n- 🎧 Nueva función 'Transición Suave (Crossfade)': Mezcla tus canciones como un DJ sin silencios incómodos.\n- 🚗 Mejora visual en el Modo Conducción: Los nombres largos de canciones ahora se deslizan elegantemente (Efecto marquesina).\n- 📚 Listas sin límites: El Inicio ahora carga todas tus canciones completas para que nunca pare la música."
 }
